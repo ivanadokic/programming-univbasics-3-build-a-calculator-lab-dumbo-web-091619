@@ -1,5 +1,7 @@
 
-
+num1 = gets.to_i
+num2 = gets.chomp
+num2 = gets.to_i
 def addition(num1, num2)
   returns addition
 end
